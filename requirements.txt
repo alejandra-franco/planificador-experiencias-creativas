@@ -1,0 +1,5 @@
+# Dependencias del Planificador de Experiencias Creativas
+# Instálalas con: pip install -r requirements.txt
+
+streamlit>=1.32.0   # Framework para construir la interfaz web
+pandas>=2.0.0       # Librería para crear y mostrar tablas de datos
